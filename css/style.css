@@ -307,6 +307,12 @@ ul#navigation li .fa {
 	font-size: 16px;
 }
 
+.lastupdate{
+	text-align: center;
+	color: #fff;
+	font-size: 11px;
+}
+
 #copyright{
 	text-align:center;
 	font-size:0.7em;
