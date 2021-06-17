@@ -5,7 +5,7 @@
 
 @font-face {
 font-family: 'Neuton';
-src: url("assets/Neuton-Regular.ttf");
+src: local('Neuton'), url("./assets/Neuton-Regular.ttf") format('ttf');
 }
 
 body {
